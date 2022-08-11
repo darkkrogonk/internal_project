@@ -35,5 +35,5 @@ class Projects(models.Model):
 
     class Meta:
         ordering = ['-title']
-        verbose_name = "Проект"
-        verbose_name_plural = "Проекты"
+        verbose_name = 'Проект'
+        verbose_name_plural = 'Проекты'
